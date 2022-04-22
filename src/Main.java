@@ -1,4 +1,5 @@
 // my first game
+// also in https://replit.com/@JuanSalazar20/MyFirstGame#Main.java
 
 import java.util.Scanner;
 
